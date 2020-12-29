@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 我是双king
+
+<a href= "http://husd.github.io">我的博客地址<imp src="http://husd.github.io/img/logo1.png" /> </>
+
+- 🔭 I’m currently working on java for GOME
 
 <!--
 **husd/husd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
