@@ -1,21 +1,12 @@
 ### Hi there 👋 我是双king
 
-<a href= "http://husd.github.io">我的博客地址<img src="http://husd.github.io/img/logo1.png" /> </a>
+如果你想了解关于更多我的信息，可以访问我的博客：
 
-- 🔭 I’m currently working on java for GOME
+<a href= "http://husd.github.io">我的博客地址<img src="logo1.png" /> </a>
 
-<!--
-**husd/husd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 我目前在为国美工作。
 
-Here are some ideas to get you started:
++ 我的邮箱地址是： shengdonghu@126.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    > 我目前主要从事JAVA服务器端开发，有近9年的工作经验。
 
--->
