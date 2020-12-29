@@ -1,6 +1,6 @@
 ### Hi there 👋 我是双king
 
-<a href= "http://husd.github.io">我的博客地址<imp src="http://husd.github.io/img/logo1.png" /> </>
+<a href= "http://husd.github.io">我的博客地址<img src="http://husd.github.io/img/logo1.png" /> </a>
 
 - 🔭 I’m currently working on java for GOME
 
