@@ -2,7 +2,7 @@
 
 如果你想了解关于更多我的信息，可以访问我的博客：
 
-<a href= "http://husd.github.io">我的博客地址<img src="logo1.png" /> </a>
+<a href= "http://www.epoooll.com/">我的博客地址<img src="logo1.png" /> </a>
 
 - 🔭 我目前在为国美工作。
 
