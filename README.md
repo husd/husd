@@ -4,7 +4,7 @@
 
 <a href= "http://www.epoooll.com/">我的博客地址<img src="logo1.png" /> </a>
 
-- 🔭 我目前在为国美工作。
+- 🔭 我目前在为XX工作。
 
 + 我的邮箱地址是： shengdonghu@126.com
 
